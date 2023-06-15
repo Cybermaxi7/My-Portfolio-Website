@@ -1,0 +1,9 @@
+{
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.fontWeight": "700",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.codeActionsOnSave": {
+
+  }
+}
