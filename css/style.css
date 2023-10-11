@@ -206,6 +206,9 @@ body {
   border-radius: 1rem;
   transition: all 0.3s ease-in-out;
 }
+.logo-tailwind {
+  width: 1.5rem;
+}
 .btn:hover {
   background-color: #706c6c;
   color: #fff;
