@@ -1,9 +1,7 @@
 {
-  "editor.fontFamily": "'Cascadia Code'",
-  "editor.fontWeight": "700",
-  "editor.fontLigatures": true,
-  "editor.fontSize": 13,
-  "editor.codeActionsOnSave": {
-
-  }
+    "editor.fontFamily": "Operator Mono Lig",
+    "editor.fontWeight": "700",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.codeActionsOnSave": {}
 }
